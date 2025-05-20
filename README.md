@@ -7,13 +7,13 @@ This project focuses on building a machine learning model to detect fake news ar
 - Preprocessed and cleaned news text data
 - Applied stemming and TF-IDF vectorization
 - Trained a Logistic Regression model using Scikit-learn
-- Achieved 80–90% accuracy in predicting fake news
+- Achieved 97.3% accuracy in predicting fake news
 - Built using Python, Pandas, NumPy, and Sklearn
 
 ## Dataset
 
 The dataset used in this project is the **Fake and Real News Dataset** available on [Kaggle]
-Once downloaded, place the dataset file (e.g., `Fake.csv`, `True.csv`) in the working directory or in a `data/` folder.
+Once downloaded, place the dataset file (e.g., `Fake.csv`, `True.csv`) in the working directory.
 
 ## Requirements
 
